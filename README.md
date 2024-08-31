@@ -17,7 +17,7 @@ Complete the mission to receive a reward, which can be a weapon or item.
 
 # How It Works:
 
-Start Mission: 
+**Start Mission:** 
 Talk to the NPC to begin.
 
 **Retrieve Vehicle:** 
