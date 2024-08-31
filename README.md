@@ -9,8 +9,8 @@ Start missions by talking to a customizable NPC.
 **Vehicle Spawning:**
 Vehicles appear at random locations for each mission.
 
-**Blips & Markers:** 
-Blips on the map guide players to the NPC, vehicle, and sale location. A marker shows where to sell the vehicle.
+**Blips** 
+Blips on the map guide players to the NPC, vehicle, and sale location.
 
 **Rewards:** 
 Complete the mission to receive a reward, which can be a weapon or item.
